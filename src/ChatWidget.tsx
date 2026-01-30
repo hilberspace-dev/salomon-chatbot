@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { X, Send, ChevronRight, MessagesSquare } from 'lucide-react';
+import { X, Send, MessagesSquare } from 'lucide-react';
 
 // --- TİPOGRAFİ (Moda Dergisi Havası) ---
 const typographyStyle = `
